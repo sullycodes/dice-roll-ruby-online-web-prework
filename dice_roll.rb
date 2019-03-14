@@ -4,5 +4,6 @@
 
 def roll
   # code goes here
-  
+  dice = number.random(1..6)
+  puts dice
 end
