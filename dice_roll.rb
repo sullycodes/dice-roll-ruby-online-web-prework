@@ -5,7 +5,7 @@
 def roll
   # code goes here
   dice = rand(1..6)
-  puts dice
+  return dice
 end
 
 roll
